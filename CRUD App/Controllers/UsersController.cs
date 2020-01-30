@@ -48,5 +48,17 @@ namespace CRUD_App.Controllers
             }
         }
 
+        [HttpGet]
+        public ActionResult Updateuser(string id)
+        {
+            if (id == null)
+            {
+                return HttpNotFound();
+            }
+            CrudContext db = new CrudContext();
+            var output = db.user.Single(x => x.id == id);
+            return View(output);
+        }
+
     }
 }
