@@ -6,7 +6,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace CRUD_App.Controllers
+namespace CRUD_App.Controllers 
 {
     public class UsersController : Controller
     {

@@ -73,8 +73,8 @@ D:\Learning\Projects\C#\CRUD App\CRUD App\bin\System.Web.WebPages.Razor.xml
 D:\Learning\Projects\C#\CRUD App\CRUD App\bin\Newtonsoft.Json.xml
 D:\Learning\Projects\C#\CRUD App\CRUD App\bin\Antlr3.Runtime.pdb
 D:\Learning\Projects\C#\CRUD App\CRUD App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\Learning\Projects\C#\CRUD App\CRUD App\obj\Debug\CRUD App.csprojAssemblyReference.cache
 D:\Learning\Projects\C#\CRUD App\CRUD App\obj\Debug\CRUD App.csproj.CoreCompileInputs.cache
 D:\Learning\Projects\C#\CRUD App\CRUD App\obj\Debug\CRUD App.csproj.CopyComplete
 D:\Learning\Projects\C#\CRUD App\CRUD App\obj\Debug\CRUD App.dll
 D:\Learning\Projects\C#\CRUD App\CRUD App\obj\Debug\CRUD App.pdb
+D:\Learning\Projects\C#\CRUD App\CRUD App\obj\Debug\CRUD App.csprojAssemblyReference.cache
