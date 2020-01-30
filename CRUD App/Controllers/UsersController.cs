@@ -108,5 +108,25 @@ namespace CRUD_App.Controllers
             return View();
         }
 
+        [HttpPost]
+        public ActionResult RemoveUser(string id)
+        {
+            if (id == null)
+            {
+                return HttpNotFound();
+            }
+
+            CrudContext db = new CrudContext();
+            var output = db.user.Single(x => x.id == id);
+            if (output == null)
+            {
+                return HttpNotFound();
+            }
+
+            db.user.Remove(output);
+            db.SaveChanges();
+
+            return RedirectToAction("Retrive");
+        }
     }
 }
