@@ -1,0 +1,80 @@
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\CRUD App.dll.config
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\CRUD App.dll
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\CRUD App.pdb
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\roslyn\csc.exe
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\roslyn\csc.exe.config
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\roslyn\csc.rsp
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\roslyn\csi.exe
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\roslyn\csi.exe.config
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\roslyn\csi.rsp
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\roslyn\System.AppContext.dll
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\roslyn\System.Collections.Immutable.dll
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\roslyn\System.Console.dll
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\roslyn\System.IO.Compression.dll
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\roslyn\System.IO.FileSystem.dll
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\roslyn\System.IO.Pipes.dll
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\roslyn\System.Reflection.Metadata.dll
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\roslyn\System.Security.AccessControl.dll
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\roslyn\System.Security.Claims.dll
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\roslyn\System.ValueTuple.dll
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\roslyn\System.Xml.XPath.dll
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\roslyn\vbc.exe
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\roslyn\vbc.exe.config
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\roslyn\vbc.rsp
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\roslyn\VBCSCompiler.exe
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\roslyn\VBCSCompiler.exe.config
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\Antlr3.Runtime.dll
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\EntityFramework.dll
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\EntityFramework.SqlServer.dll
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\Microsoft.Web.Infrastructure.dll
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\Newtonsoft.Json.dll
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\System.Web.Helpers.dll
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\System.Web.Mvc.dll
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\System.Web.Optimization.dll
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\System.Web.Razor.dll
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\System.Web.WebPages.Deployment.dll
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\System.Web.WebPages.dll
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\System.Web.WebPages.Razor.dll
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\WebGrease.dll
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\EntityFramework.xml
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\EntityFramework.SqlServer.xml
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\System.Web.Helpers.xml
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\System.Web.Mvc.xml
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\System.Web.Optimization.xml
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\System.Web.Razor.xml
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\System.Web.WebPages.xml
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\System.Web.WebPages.Deployment.xml
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\System.Web.WebPages.Razor.xml
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\Newtonsoft.Json.xml
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\Antlr3.Runtime.pdb
+D:\Learning\Projects\C#\CRUD App\CRUD App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Learning\Projects\C#\CRUD App\CRUD App\obj\Debug\CRUD App.csprojAssemblyReference.cache
+D:\Learning\Projects\C#\CRUD App\CRUD App\obj\Debug\CRUD App.csproj.CoreCompileInputs.cache
+D:\Learning\Projects\C#\CRUD App\CRUD App\obj\Debug\CRUD App.csproj.CopyComplete
+D:\Learning\Projects\C#\CRUD App\CRUD App\obj\Debug\CRUD App.dll
+D:\Learning\Projects\C#\CRUD App\CRUD App\obj\Debug\CRUD App.pdb
