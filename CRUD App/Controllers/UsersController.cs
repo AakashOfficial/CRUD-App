@@ -74,5 +74,21 @@ namespace CRUD_App.Controllers
             return View("Retrive");
         }
 
+        public ActionResult ShowDetail(string id)
+        {
+            if (id == null)
+            {
+                return HttpNotFound();
+            }
+            CrudContext db = new CrudContext();
+            var output = db.user.Single(x => x.id == id);
+
+            if (output == null)
+            {
+                return HttpNotFound();
+            }
+            return View(output);
+        }
+
     }
 }
