@@ -38,6 +38,15 @@ namespace CRUD_App.Controllers
             }
             return View();
         }
-        
+
+        public ActionResult Retrive(UserModel user)
+        {
+            using (CrudContext db = new CrudContext())
+            {
+                var output = db.user.ToList();
+                return View(output);
+            }
+        }
+
     }
 }
