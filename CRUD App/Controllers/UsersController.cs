@@ -60,5 +60,19 @@ namespace CRUD_App.Controllers
             return View(output);
         }
 
+        [HttpPost]
+        public ActionResult Updateusers(UserModel user)
+        {
+            if (ModelState.IsValid)
+            {
+                CrudContext db = new CrudContext();
+                db.Entry(user).State = EntityState.Modified;
+                db.SaveChanges();
+                ViewBag.Message = user.UserName + " successfully edited.";
+                return RedirectToAction("Retrive");
+            }
+            return View("Retrive");
+        }
+
     }
 }
